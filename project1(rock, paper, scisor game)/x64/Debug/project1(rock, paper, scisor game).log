@@ -1,0 +1,3 @@
+﻿  project1(rock, paper, scisor game).cpp
+D:\vs projects\project1(rock, paper, scisor game)\project1(rock, paper, scisor game)\project1(rock, paper, scisor game).cpp(101,1): warning C4715: 'RoundWiner': not all control paths return a value
+  project1(rock, paper, scisor game).vcxproj -> D:\vs projects\project1(rock, paper, scisor game)\x64\Debug\project1(rock, paper, scisor game).exe
